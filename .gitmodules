@@ -1,6 +1,6 @@
 [submodule "BoinkersBot"]
 	path = BoinkersBot
-	url = ./BoinkersBot
+	url = https://github.com/sizifart/BoinkersBot
 [submodule "CEX.IO-Bot"]
 	path = CEX.IO-Bot
 	url = ./CEX.IO-Bot
