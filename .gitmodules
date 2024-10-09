@@ -1,0 +1,54 @@
+[submodule "BoinkersBot"]
+	path = BoinkersBot
+	url = ./BoinkersBot
+[submodule "CEX.IO-Bot"]
+	path = CEX.IO-Bot
+	url = ./CEX.IO-Bot
+[submodule "CatsvsDogsBot"]
+	path = CatsvsDogsBot
+	url = ./CatsvsDogsBot
+[submodule "Coinsweeper"]
+	path = Coinsweeper
+	url = ./Coinsweeper
+[submodule "MajorClaimerBot"]
+	path = MajorClaimerBot
+	url = ./MajorClaimerBot
+[submodule "MoonbixBot"]
+	path = MoonbixBot
+	url = ./MoonbixBot
+[submodule "MuskEmpireBot"]
+	path = MuskEmpireBot
+	url = ./MuskEmpireBot
+[submodule "NotBoredPuppiesBot"]
+	path = NotBoredPuppiesBot
+	url = ./NotBoredPuppiesBot
+[submodule "NotPixelBot"]
+	path = NotPixelBot
+	url = ./NotPixelBot
+[submodule "OnusBot"]
+	path = OnusBot
+	url = ./OnusBot
+[submodule "PocketFiBot"]
+	path = PocketFiBot
+	url = ./PocketFiBot
+[submodule "RealGoatBot"]
+	path = RealGoatBot
+	url = ./RealGoatBot
+[submodule "SeedCoinBot"]
+	path = SeedCoinBot
+	url = ./SeedCoinBot
+[submodule "TapSwapBot"]
+	path = TapSwapBot
+	url = ./TapSwapBot
+[submodule "TimeFarmBot"]
+	path = TimeFarmBot
+	url = ./TimeFarmBot
+[submodule "TomarketBot"]
+	path = TomarketBot
+	url = ./TomarketBot
+[submodule "VertusBot"]
+	path = VertusBot
+	url = ./VertusBot
+[submodule "WCoinBot"]
+	path = WCoinBot
+	url = ./WCoinBot
